@@ -7,4 +7,5 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![]([https://media1.tenor.com/m/M8ST7LhrFDUAAAAd/bleach-hirako-shinji.gif](https://media1.tenor.com/m/M8ST7LhrFDUAAAAd/bleach-hirako-shinji.gif))
+![](![image](https://github.com/user-attachments/assets/b03b5440-6abd-45cb-bc7c-85200b150f9d)
+)
