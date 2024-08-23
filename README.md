@@ -1,10 +1,8 @@
 # estudantealurastart
-Boas vindas ao meu perfil 
+sopıʌןoʌuǝsǝp soʇǝɾoɹd nǝɯ sop oʇuǝɯɐɥןıʇɹɐdɯoɔ ǝ oɐ̰ɔɐzıuɐƃɹo ɐɥuıɯ ɐɹɐd oɔɐdsǝ ǝssǝ ozıןıʇ∩ ʇdıɹɔSɐʌɐſ ɯǝƃɐnƃuıן ɐu opuǝʌןoʌuǝsǝp ǝɯ noʇsƎ ɐɹnן∀ ɐu opuɐpnʇsǝ noʇsƎ
 
-Meu nome é Julio Cesar
+ɹɐsǝƆ oıןnſ ǝ̗ ǝɯou nǝW
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ןıɟɹǝd nǝɯ oɐ sɐpuıʌ sɐoᙠ
 
 ![](https://media1.tenor.com/m/a4PVIakThp0AAAAC/shinji-hirako.gif)
